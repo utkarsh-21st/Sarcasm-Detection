@@ -1,3 +1,3 @@
 # Sarcasm-Detection
-Detecting Sarcasm using BiDirectional LSTM
-Look- sarcasm_detection.ipynb
+Detecting Sarcasm using BiDirectional LSTM and GloVe embeddings
+See- sarcasm_detection.ipynb
